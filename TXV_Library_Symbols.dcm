@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP INA180
+D INAx180 Low- and High-Side Voltage Output, Current-Sense Amplifiers
+K current monitor shunt sensor
+F https://www.ti.com/lit/ds/symlink/ina180.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1600565622363&ref_url=https%253A%252F%252Fwww.mouser.at%252F
+$ENDCMP
+#
+$CMP LTC4358
+F https://www.mouser.at/datasheet/2/609/4358fa-1270155.pdf
+$ENDCMP
+#
 $CMP MCP2562FDT-H_SN
 D High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, SOIC8 package
 K High-Speed CAN Transceiver
@@ -12,10 +22,21 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/65701/si2300ds.pdf
 $ENDCMP
 #
+$CMP STM32H750VBT6
+K Cortex-M7 480MHz MCUs, 128 Kbyte Flash, 1 Mbyte RAM, 46 com. and analog interfaces
+F https://www.mouser.at/datasheet/2/389/dm00496677-1799334.pdf
+$ENDCMP
+#
 $CMP TMC4671-ES
 D IC MOTOR DRIVER MULTIPHASE 76QFN
 K 1460-1302-ND
 F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4671_datasheet_v1.03.pdf
+$ENDCMP
+#
+$CMP W25Q256JV
+D 3V 256Mbit Serial Flash Memory QSPI
+K flash memory SPI
+F https://www.winbond.com/resource-files/w25q256jv%20spi%20revi%2010232018%20plus.pdf
 $ENDCMP
 #
 #End Doc Library
