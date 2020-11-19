@@ -22,6 +22,14 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/65701/si2300ds.pdf
 $ENDCMP
 #
+$CMP STM32G473CBU6-LQFP100
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CBU6-LQFP48
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
 $CMP STM32H750VBT6
 K Cortex-M7 480MHz MCUs, 128 Kbyte Flash, 1 Mbyte RAM, 46 com. and analog interfaces
 F https://www.mouser.at/datasheet/2/389/dm00496677-1799334.pdf
