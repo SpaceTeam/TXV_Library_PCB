@@ -1,4 +1,4 @@
-(module TE_M12_4_Pin_PCB (layer F.Cu) (tedit 5FDF64CC)
+(module TE_M12_4_Pin_PCB (layer F.Cu) (tedit 600B1EFF)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -11,10 +11,10 @@
   (fp_text user J14 (at 0 4.5) (layer B.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (pad 2 thru_hole circle (at -1.767767 -1.767767 270) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 1.767767 1.767767 270) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at -1.767767 1.767767 270) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (pad 1 thru_hole circle (at 1.767767 -1.767767 270) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -1.767767 -1.767767 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 1.767767 1.767767 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at -1.767767 1.767767 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 1.767767 -1.767767 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
   (model D:/1_Uni/z_SpaceTeam/PCBs/Franz/TXV_Library_PCB/packages3d/c-t4140012041-000-a-3d.stp
     (offset (xyz 0 0 23))
     (scale (xyz 1 1 1))
