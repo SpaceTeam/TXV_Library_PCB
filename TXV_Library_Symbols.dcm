@@ -22,12 +22,16 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/65701/si2300ds.pdf
 $ENDCMP
 #
-$CMP STM32G473CBU6-LQFP100
+$CMP STM32G473CBU6-LQFP48
 F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
 $ENDCMP
 #
-$CMP STM32G473CBU6-LQFP48
+$CMP STM32G473CBU6-LQFP80
 F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G491MET6-LQFP80
+F https://www.st.com/resource/en/datasheet/stm32g491me.pdf
 $ENDCMP
 #
 $CMP STM32H750VBT6
