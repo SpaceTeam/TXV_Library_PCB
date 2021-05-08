@@ -22,6 +22,10 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/65701/si2300ds.pdf
 $ENDCMP
 #
+$CMP SIC431CED-T1-GE3
+F https://www.mouser.at/datasheet/2/427/sic431-1670272.pdf
+$ENDCMP
+#
 $CMP STM32G473CBU6-LQFP48
 F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
 $ENDCMP
