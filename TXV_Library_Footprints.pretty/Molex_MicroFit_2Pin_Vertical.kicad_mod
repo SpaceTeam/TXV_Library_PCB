@@ -21,7 +21,7 @@
   (pad 2 smd rect (at -1.5 -3.42) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 5.385 0) (size 3.43 1.65) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -5.385 0) (size 3.43 1.65) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../TXV_Library_PCB/packages3d/436500226.stp
+  (model ${KIPRJMOD}/../TXV_Library_PCB/TXV_Library_Models.3dshapes/436500226.stp
     (offset (xyz 0 0 5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

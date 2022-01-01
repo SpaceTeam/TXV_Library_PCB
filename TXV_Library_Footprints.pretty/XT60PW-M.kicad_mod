@@ -13,7 +13,7 @@
   (pad 2 thru_hole circle (at 3.6 16) (size 5 5) (drill 2.6) (layers *.Cu *.Mask))
   (pad MP thru_hole oval (at -6.75 10) (size 2 3) (drill oval 0.6 1.6) (layers *.Cu *.Mask))
   (pad MP thru_hole oval (at 6.75 10) (size 2 3) (drill oval 0.6 1.6) (layers *.Cu *.Mask))
-  (model /home/daniel/Dropbox/Workspaces/KiCad/TXV_Library_PCB/packages3d/XT60PW-M.step
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/XT60PW-M.step
     (offset (xyz 0 -0.7 4.2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

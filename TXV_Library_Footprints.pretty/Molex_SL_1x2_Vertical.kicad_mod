@@ -15,7 +15,7 @@
   (fp_line (start -3.9 2.7) (end 3.9 2.7) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 1.27 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -1.27 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/TXV_Library_PCB/packages3d/705430106.stp
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/705430106.stp
     (offset (xyz 0 0 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

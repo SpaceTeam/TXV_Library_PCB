@@ -31,7 +31,7 @@
   (pad 6 smd roundrect (at 0 2.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
   (pad 4 smd roundrect (at -1 2.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
   (pad 2 smd roundrect (at -2 2.8) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
-  (model ${KIPRJMOD}/../TXV_Library_PCB/packages3d/DF20F-10DP-1V.step
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/DF20F-10DP-1V.step
     (offset (xyz 17.65 -1 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 -180))

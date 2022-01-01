@@ -29,7 +29,7 @@
   (pad 3 thru_hole circle (at 0 2.8) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 3.25 -1.5) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at -3.25 -1.5) (size 2 2) (drill 2) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/TXV_Library_PCB/packages3d/D2F_A.step
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/D2F_A.step
     (offset (xyz 3.25 1.5 2.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -10,7 +10,7 @@
   (fp_line (start 2.2 -13.2) (end -2.2 -13.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.2 -13.2) (end -2.2 0) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole roundrect (at 0 -6) (size 5 14) (drill oval 2 13) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model /home/daniel/Dropbox/Workspaces/KiCad/TXV_Library_PCB/packages3d/Bullet_3mm.step
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/Bullet_3mm.step
     (offset (xyz 0 12.2 2.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -1.5 90))

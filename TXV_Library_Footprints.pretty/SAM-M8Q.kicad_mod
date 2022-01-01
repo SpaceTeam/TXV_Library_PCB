@@ -117,7 +117,7 @@
   (pad "" smd roundrect (at 6.1 -4.225 90) (size 0.58 0.72) (layers F.Paste) (roundrect_rratio 0.066))
   (pad "" smd roundrect (at 6.1 2.325 90) (size 0.58 0.72) (layers F.Paste) (roundrect_rratio 0.066))
   (pad "" smd roundrect (at 7.1 -3.375 90) (size 0.58 0.72) (layers F.Paste) (roundrect_rratio 0.066))
-  (model ${KIPRJMOD}/TXV_Library_PCB/packages3d/SAM-M8Q.STEP
+  (model ${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/SAM-M8Q.STEP
     (offset (xyz 7.75 7.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

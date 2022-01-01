@@ -26,7 +26,7 @@
   (pad 4 thru_hole circle (at 1.27 -6.6) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 2.54 -7.87) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 -6.6) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
-  (model /home/daniel/Dropbox/Workspaces/KiCad/TXV_Library_PCB/packages3d/20021522-00010xxlfc.step
+  (model /home/daniel/Dropbox/Workspaces/KiCad/TXV_Library_PCB/TXV_Library_Models.3dshapes/20021522-00010xxlfc.step
     (offset (xyz -1.27 5.4 2.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
