@@ -100,4 +100,14 @@
   (pad "4" smd rect (at -7.5 0) (size 1.24 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3bf7021-f8a2-41f5-80a8-56410c8eb23c))
   (pad "MP" smd rect (at -10.070018 4.93) (size 1.1 8.200001) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac8138e6-7f87-4d4b-9cb6-87252f41d2aa))
   (pad "MP" smd rect (at 1.969958 4.93) (size 1.1 8.200001) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 35425f94-c7f6-46b1-b0ad-a49d34c2d29d))
+  (model "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/1053071204.stp"
+    (offset (xyz -4 -19.25 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Models.3dshapes/1054301304.stp"
+    (offset (xyz -4 -5 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
